@@ -17,7 +17,7 @@ body{
 
 form{
   width: 100%;
-  /* position: fixed; */
+   position: fixed; 
 }
 
 button{
@@ -33,7 +33,7 @@ button.selected{
   color: #fff;
 }
 
-ur{
+ul{
   /* padding of 3rem, 2rem, 1rem */
   padding: 3rem 2rem 1rem;
 }
