@@ -1,7 +1,6 @@
 // import useState and useEffect from react
 import React, { useState, useEffect } from 'react';
 import Form from './Components/Form';
-import List from './Components/List';
 import Table from './Components/Table'
 
 function App() {
